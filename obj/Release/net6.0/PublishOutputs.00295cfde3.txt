@@ -1,0 +1,15 @@
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Ship_Review_API.exe
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Ship_Review_API.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Ship_Review_API.runtimeconfig.json
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Ship_Review_API.pdb
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Release\net6.0\PubTmp\Out\Ship_Review_API.deps.json
