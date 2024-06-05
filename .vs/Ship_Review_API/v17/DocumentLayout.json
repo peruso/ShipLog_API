@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B12DE5C-608A-4CD5-ACF7-25F8974C33E7}|..\\Unit.Tests\\Unit.Tests.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\unit.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\controllers\\shipreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:controllers\\shipreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\models\\ship_reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:models\\ship_reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\models\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:models\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\ship_review_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:ship_review_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\models\\shipinfoandevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:models\\shipinfoandevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|c:\\users\\lorat\\source\\repos\\cst8259\\final_exam_ship_review\\ship_review_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0ED8CF4-8929-45D7-AD14-B0CB42A47BC4}|Ship_Review_API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Unit.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Unit.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Unit.Tests\\UnitTest1.cs*",
+              "RelativeToolTip": "..\\Unit.Tests\\UnitTest1.cs*",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAN4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:11:04.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShipReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Controllers\\ShipReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShipReviewController.cs",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Controllers\\ShipReviewController.cs",
+              "RelativeToolTip": "Controllers\\ShipReviewController.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAcwAMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T23:10:48.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ship_reviews.cs",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Models\\ship_reviews.cs",
+              "RelativeDocumentMoniker": "Models\\ship_reviews.cs",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Models\\ship_reviews.cs",
+              "RelativeToolTip": "Models\\ship_reviews.cs",
+              "ViewState": "AQIAAA0CAAAAAAAAAAAmwBsCAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T18:15:42.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T23:50:50.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T23:54:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Models\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Models\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Models\\DataAccess.cs",
+              "RelativeToolTip": "Models\\DataAccess.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA5wEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T23:43:29.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ship_Review_API.csproj",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Ship_Review_API.csproj",
+              "RelativeDocumentMoniker": "Ship_Review_API.csproj",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Ship_Review_API.csproj",
+              "RelativeToolTip": "Ship_Review_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-07T23:28:01.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShipInfoAndEvaluation.cs",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Models\\ShipInfoAndEvaluation.cs",
+              "RelativeDocumentMoniker": "Models\\ShipInfoAndEvaluation.cs",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Models\\ShipInfoAndEvaluation.cs",
+              "RelativeToolTip": "Models\\ShipInfoAndEvaluation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T18:51:45.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-07T21:47:24.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lorat\\source\\repos\\CST8259\\Final_Exam_Ship_Review\\Ship_Review_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-07T21:47:37.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -49,10 +49,7 @@ namespace Ship_Review_API.Controllers
                 return BadRequest($"Error: {ex.Message}");
             }
         }
-        //public IEnumerable<string> Get()
-        //{
-        //    return new string[] { "value1", "value2" };
-        //}
+
 
         // GET api/<ShipReviewController>/5
         [HttpGet("{id}")]
@@ -151,15 +148,7 @@ namespace Ship_Review_API.Controllers
             newShip.BuildYear = shipInfoAndEvaluation.BuildYear;
             newShip.Owner = shipInfoAndEvaluation.Owner;
             newShip.Manager = shipInfoAndEvaluation.Manager;
-            //newShip.ShipEvaluations = new List<ShipEvaluation>();
-            //ShipEvaluation shipEvaluation = new ShipEvaluation();
-            //shipEvaluation.VesselQualityValue = shipInfoAndEvaluation.VesselQualityValue;
-            //shipEvaluation.CrewPerformanceValue = shipInfoAndEvaluation.CrewPerformanceValue;
-            //shipEvaluation.CrewAttitudeValue = shipInfoAndEvaluation.CrewAttitudeValue;
-            //shipEvaluation.FuelEfficiencyValue = shipInfoAndEvaluation.FuelEfficiencyValue;
-            //shipEvaluation.SafetyScoreValue = shipInfoAndEvaluation.SafetyScoreValue;
-            //shipEvaluation.Imo = shipInfoAndEvaluation.Imo;
-            //newShip.ShipEvaluations.Add(shipEvaluation);
+
             return newShip;
         }
 
@@ -258,11 +247,7 @@ namespace Ship_Review_API.Controllers
                 var shipInfo = _context.ShipInfos.FirstOrDefault(si => si.ShipInfoId == id);
                 if (shipInfo != null)
                 {
-                    //var shipEvaluations = _context.ShipEvaluations.Where(se => se.Imo == shipInfo.Imo);
-                    //foreach (var shipEvaluation in shipEvaluations)
-                    //{
-                    //    _context.ShipEvaluations.Remove(shipEvaluation);
-                    //}
+
                     _context.ShipInfos.Remove(shipInfo);
                     _context.SaveChanges();
                 }

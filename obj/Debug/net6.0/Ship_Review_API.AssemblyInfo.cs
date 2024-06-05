@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ship_Review_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d1f7b7930440561583dd9249592d1b7f32ac08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ship_Review_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ship_Review_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

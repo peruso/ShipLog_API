@@ -34,4 +34,8 @@ C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\bin\D
 C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Debug\net6.0\Ship_Review_API.csproj.CopyComplete
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Debug\net6.0\Ship_Review_API.sourcelink.json
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\obj\Debug\net6.0\Ship_Rev.0973EB06.Up2Date
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\bin\Debug\net6.0\Moq.dll
+C:\Users\lorat\source\repos\CST8259\Final_Exam_Ship_Review\Ship_Review_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
